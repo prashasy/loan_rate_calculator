@@ -1,0 +1,40 @@
+{
+    "rates": {
+        "ON": {
+            "deposit": 3.35,
+            "loan": 3.4
+        },
+        "1W": {
+            "deposit": 3.37,
+            "loan": 3.42
+        },
+        "2W": {
+            "deposit": 3.5,
+            "loan": 3.55
+        },
+        "1M": {
+            "deposit": 3.63,
+            "loan": 3.68
+        },
+        "2M": {
+            "deposit": 3.70,
+            "loan": 3.75
+        },
+        "3M": {
+            "deposit": 3.78,
+            "loan": 3.83
+        },
+        "6M": {
+            "deposit": 4.27,
+            "loan": 4.32
+        },
+        "9M": {
+            "deposit": 4.47,
+            "loan": 4.52
+        },
+        "1Y": {
+            "deposit": 4.72,
+            "loan": 4.77
+        }
+    }
+}
